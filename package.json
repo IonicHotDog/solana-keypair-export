@@ -1,0 +1,25 @@
+{
+  "name": "solana-keypair-export",
+  "version": "1.0.2",
+  "description": "Convert Solana keypair JSON to Base58 format for Phantom",
+  "main": "index.js",
+  "dependencies": {
+    "bs58": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solana",
+    "keypair",
+    "phantom",
+    "wallet",
+    "bs58"
+  ],
+  "author": "IonicHotdog",
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IonicHotDog/solana-leypair-export.git"
+  }
+}
